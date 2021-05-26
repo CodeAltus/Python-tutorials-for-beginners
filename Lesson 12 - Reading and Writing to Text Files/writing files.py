@@ -1,0 +1,8 @@
+text_file = open("document.txt", "r")
+lines = text_file.readlines()
+lines.append("datatype\n")
+lines.append("string\n")
+text_file.close()
+text_file = open("document.txt", "w")
+text_file.writelines(lines)
+text_file.close()
