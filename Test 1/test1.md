@@ -14,7 +14,7 @@ Sample output:
 > `The remainder is 1`
 
 ## Question 2
-Write a function called "divisible_by_9" which takes a parameter called "n" and checks if it is divisible by 9
+Write a function called "divisible_by_9" which takes a parameter called "n" and checks if it is divisible by 9. The function should return a string which is either `"The number is divisible by 9"` or `"The number is not divisible by 9"`
 
 Starting code:
 
@@ -52,7 +52,7 @@ Sample output 2:
 > `You are more than 25 years old`
 
 ## Question 4
-Write a program that asls the user to input a temperature value and output "Cold", "Normal" or "Hot" depending on the value
+Write a program that asks the user to input a temperature value and output "Cold", "Normal" or "Hot" depending on the value
 
 - temperature < 25 then print "Cold"
 - 25 <= temperature <= 35 then print "Normal"
@@ -77,7 +77,7 @@ Sample output 3:
 > `Hot`
 
 ## Question 5
-Write a program that asks the user to input a positive integer n and print out the sum: `1 ^ 2 + 2 ^ 2 + 3 ^ 2 + 4 ^ 2 + ... + n ^ 2`
+Write a program that asks the user to input a positive integer n and print out the sum: `1 ^ 2 + 2 ^ 2 + 3 ^ 2 + 4 ^ 2 + ... + n ^ 2` (This is the sum of squares of the consecutive integers from 1 to the positive integer n)
 
 (Hint: Use a for loop)
 
