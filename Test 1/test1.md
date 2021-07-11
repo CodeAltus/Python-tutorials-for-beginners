@@ -37,7 +37,7 @@ Sample output 2:
 > `The number is not divisible by 9`
 
 ## Question 3
-Write a program that asks the user to input their age and check if their age is below 25
+Write a program that asks the user to input their age and checks if their age is below 25
 
 Sample output 1:
 
